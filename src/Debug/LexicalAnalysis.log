@@ -1,0 +1,6 @@
+﻿  SyntaxAnalysis.cpp
+d:\faks\paralelno programiranje\projekat\src\syntaxanalysis.cpp(117): warning C4715: 'SyntaxAnalysis::getRegPosition': not all control paths return a value
+d:\faks\paralelno programiranje\projekat\src\syntaxanalysis.cpp(245): warning C4715: 'SyntaxAnalysis::findInstructionPosition': not all control paths return a value
+d:\faks\paralelno programiranje\projekat\src\syntaxanalysis.cpp(513): warning C4715: 'SyntaxAnalysis::returnAssignedReg': not all control paths return a value
+  LexicalAnalysis.vcxproj -> D:\Faks\Paralelno programiranje\Projekat\src\Debug\LexicalAnalysis.exe
+  LexicalAnalysis.vcxproj -> D:\Faks\Paralelno programiranje\Projekat\src\Debug\LexicalAnalysis.pdb (Full PDB)
